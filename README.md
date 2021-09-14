@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an german java developer with one and a half year of experience.
+I am a german java developer with one and a half year of experience.
 
 <!--
 **Keksnet/Keksnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
