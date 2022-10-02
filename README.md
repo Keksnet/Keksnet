@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on JAGIL<br>🤝 I’m helping @dvntr @KeinSurvival<br>🌱 I’m currently learning KTor
+🔭 I’m currently working on JAGIL<br>🤝 I’m helping @dvntr<br>🌱 I’m currently learning KTor
 
 
 # 💻 Tech Stack:
